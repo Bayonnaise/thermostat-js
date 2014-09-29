@@ -1,4 +1,4 @@
-#Thermostat
+#Thermostat [![Code Climate](https://codeclimate.com/github/Bayonnaise/thermostat-js/badges/gpa.svg)](https://codeclimate.com/github/Bayonnaise/thermostat-js)
 
 A short refresher exercise on the basics of JavaScript and JQuery. Build a simple web-based thermometer application that lets you adjust the temperature within set boundaries.
 
