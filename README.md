@@ -28,5 +28,5 @@ open index.html
 ```shell
 git clone https://github.com/Bayonnaise/thermostat-js.git
 cd thermostat-js
-open specRunner.html
+open SpecRunner.html
 ```
